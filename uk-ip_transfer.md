@@ -7,7 +7,7 @@
 - Assignor irrevocably waives (and warrants that it will obtain waivers to) all moral rights any individual may have in the Subject under copyright law or any similar provision of law in any jurisdiction. 
 - Where there is an Exception, the transfer of Intellectual Property Rights in the subclauses above will not apply to the subject of the Exception. 
 
-### Definitions
+## Definitions
 
 Defined terms in this document will have the meanings described below.
 
