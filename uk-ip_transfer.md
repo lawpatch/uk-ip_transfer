@@ -1,4 +1,4 @@
-# Intellectual Property Rights Transfer
+## Intellectual Property Rights Transfer
 
 - Assignor assigns all current and future Intellectual Property Rights in the Subject with full title guarantee to Assignee. 
 - The assignment is global unless the Provision specifies a particular territory for the assignment, in which case the Intellectual Property Rights are assigned in that territory only. 
@@ -47,4 +47,3 @@ means the provision in the Agreement that incorporates this document into the Ag
 
 ### Subject
 means the subject(s) of the transfer of Intellectual Property Rights in the Provision.
-
